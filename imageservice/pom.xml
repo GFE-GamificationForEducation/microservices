@@ -17,7 +17,7 @@
 	<properties>
 		<java.version>1.8</java.version>
 		<spring-cloud.version>Greenwich.RC2</spring-cloud.version>
-		<h2-database.version>1.4.199</h2-database.version>
+		<h2-database.version>2.0.206</h2-database.version>
 		<commons-io.version>2.6</commons-io.version>
 		<guava.version>29.0-jre</guava.version>
 		<firestore.version>v1-rev15-1.25.0</firestore.version>
